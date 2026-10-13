@@ -2,10 +2,11 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-GinCz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GinCz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vladimir%20Bulantsev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gincz/)
-[![Location](https://img.shields.io/badge/Location-Prague%2C%20Czech%20Republic-critical?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.linkedin.com/in/gincz/)
-[![Version](https://img.shields.io/badge/Version-v.2026.10.13-success?style=for-the-badge)](https://github.com/GinCz)
+<a href="https://github.com/GinCz" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-GinCz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gincz/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Vladimir%20Bulantsev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<br/>
+<a href="https://maps.google.com/?q=Prague,Czech+Republic" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Location-Prague%2C%20Czech%20Republic-critical?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" /></a>
 
 <br/>
 
