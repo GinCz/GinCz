@@ -1,91 +1,91 @@
 # VladiMIR Bulantsev — GinCz
 
-**IPGuard Author · Linux Server Admin · DevOps Engineer**  
-Czech Republic · [github.com/GinCz](https://github.com/GinCz)
+**DevOps Architect · Linux & Cloud Systems Engineer · AI Specialist**  
+Czech Republic · [github.com/GinCz ↗](https://github.com/GinCz)
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi, I'm **VladiMIR** (aka **GinCz**) — a Linux sysadmin and DevOps engineer based in **Czech Republic**.  
-I build and maintain production server infrastructure: security hardening, web hosting, VPN, file sharing, and deployment automation.
+Hi, I'm **Ing. Vladimir Bulantsev** (aka **GinCz**) — DevOps architect, Linux systems engineer, and developer based in **Czech Republic**.  
+I design and maintain enterprise server infrastructure, security hardening systems, automated crypto-trading nodes, and high-performance web platforms.
 
-- 🛡️ Creator of **IPGuard** — triple-layer IP security system (ipset + CrowdSec + Fail2Ban) for Linux servers
-- ⚡ Running **Cloudflare** WAF + CDN protecting 15+ WordPress production sites
-- 🗂️ Managing a **10-node Samba** network file sharing infrastructure across VPN nodes, AWS, and IONOS
-- 🖥️ **Linux server** admin — Ubuntu 24 LTS on NetCup (Germany) and FastVDS (Russia)
-- 🔐 Expert in **XRAY VPN** server setup, Amnezia VPN, WireGuard
-- 🛡️ Deep experience with **CrowdSec**, Fail2Ban, iptables, ipset blacklists
-- 🌍 Based in **Czech Republic** (Prague area), originally from Yekaterinburg, Russia
-- 🤖 Building automated crypto trading bots (Python, Docker)
+- 🛡️ Creator of **IPGuard** — triple-layer IP security system (ipset + CrowdSec + Fail2Ban) for Linux production servers.
+- 💬 Architect of **GIN-Chat** — autonomous WebRTC audio/video messenger with zero-knowledge client-side encryption.
+- ⚡ **WordPress & WooCommerce** micro-plugins suite author — ultra-lightweight, 0-bloat, secure replacements for standard plugins.
+- 🤖 Developer of **Anti-Gravity AI & Token Economy** frameworks for fully autonomous agents and server maintenance.
+- 🗂️ Managing distributed **Samba** network storage across VPN nodes, Oracle Cloud, NetCup, AWS, and IONOS.
+- 🔐 Expert in **XRAY VPN (Reality, VLESS)**, WireGuard, network traffic obfuscation, and zero-trust perimeter defense.
 
 ---
 
-## 🚀 Public Projects
+## 🚀 Public Projects in GitHub Root
 
-### 🐧 [Linux_Server_Public](https://github.com/GinCz/Linux_Server_Public)
+All public projects are maintained directly in the root of the **GinCz** GitHub ecosystem:
 
-> Production-ready scripts and configs for Ubuntu 24 LTS Linux servers.
+### 1. 🤖 [AI ↗](https://github.com/GinCz/AI)
+> Universal AI Master Rules, Token Economy, Cache-First Architecture & VS Code Environment.
 
-**IPGuard** — triple-layer IP security (ipset blacklist + CrowdSec + Fail2Ban) — is the flagship tool in this repo.  
-Also covers: **Cloudflare** WAF integration, **Samba** network file sharing (10-node setup), **Linux server** hardening,  
-**Ubuntu 24** automation, **XRAY VPN** configs, **CrowdSec** scenarios, FastPanel management, bash scripting.
-
-> `IPGuard` · `Cloudflare` · `Samba` · `linux-server` · `ubuntu-24` · `xray-vpn` · `crowdsec` · `fail2ban` · `fastpanel` · `bash` · `iptables` · `ipset` · `devops` · `sysadmin` · `vpn-server` · `netcup` · `fastvds`
+Comprehensive operating standards, prompt engineering rules, agent workflows, and system skills for production AI agents.
 
 ---
 
-### 🪟 [Windows_scripts](https://github.com/GinCz/Windows_scripts)
+### 2. 💬 [GIN-Chat ↗](https://github.com/GinCz/GIN-Chat)
+> Autonomous, ultra-secure E2EE WebRTC messenger with PWA, audio/video calls, and zero-knowledge storage.
 
-> Windows CMD/BAT utility scripts for diagnostics, optimization, benchmarking, and **Samba** SMB network drive management.
-
-Includes `SMB_Connect.bat` — connects all 10 Samba servers at once, with color-coded status report.
-
-> `windows-scripts` · `samba-smb` · `network-drives` · `bat` · `cmd` · `powershell` · `system-optimization` · `sysadmin-tools`
+Public project showcase, client application, PWA assets, and architecture specifications.
 
 ---
 
-## 🛠️ Tech Stack
+### 3. 🐧 [Linux_Server_Public ↗](https://github.com/GinCz/Linux_Server_Public)
+> Production-ready scripts, security tooling, and configs for Ubuntu 24 LTS and Debian 12 servers.
 
-| Area | Tools |
-|------|-------|
-| **Security** | **IPGuard**, CrowdSec, Fail2Ban, iptables, ipset |
-| **CDN / WAF** | **Cloudflare** WAF, DNS, Bot Fight Mode |
-| **File sharing** | **Samba** SMB2+, 10-node infrastructure |
-| **OS / Linux** | **Ubuntu 24 LTS**, Debian, Linux server admin |
-| **VPN** | **XRAY VPN**, Amnezia VPN, WireGuard |
-| **Web** | Nginx, FastPanel, WordPress |
-| **Scripting** | Bash, Python, PowerShell, BAT/CMD |
-| **Monitoring** | Uptime Kuma, Netdata, Glances |
-| **DevOps** | Docker, GitHub Actions, VS Code, SSH |
-| **DNS** | AdGuard Home, Cloudflare DNS, BIND9 |
+Flagship repository containing **IPGuard**, FastPanel maintenance scripts, Cloudflare WAF automation, CrowdSec integration, and backup routines.
 
 ---
 
-## 🌐 Server Infrastructure
+### 4. 🪟 [Windows_scripts ↗](https://github.com/GinCz/Windows_scripts)
+> Windows CMD/BAT/PowerShell utilities for diagnostics, system optimization, and Samba SMB network drive management.
 
-```
-🇩🇪 DE-222   152.53.182.222   NetCup Germany  — Linux server: FastPanel + Cloudflare + XRAY VPN + IPGuard + CryptoBot
-🇷🇺 RU-109   212.109.223.109  FastVDS Russia  — Linux server: FastPanel + Samba + XRAY VPN + IPGuard
-☁️  AWS-12   18.195.117.12    AWS Frankfurt   — XRAY VPN + Samba + IPGuard
-⚡  IONOS    82.223.116.38    IONOS Spain     — XRAY VPN + IPGuard
-    + 8 VPN nodes             Samba + XRAY VPN + IPGuard (Ubuntu 24 LTS)
-```
+Sysadmin toolkit including `SMB_Connect.bat`, optimization suites, and desktop maintenance automation.
 
 ---
 
-## 📊 GitHub Stats
+### 5. 🌐 [WordPress ↗](https://github.com/GinCz/WordPress)
+> WordPress ecosystem & suite of 13 ultra-lightweight, high-performance micro-plugins with 100% open source code.
 
-![GinCz GitHub stats](https://github-readme-stats.vercel.app/api?username=GinCz&show_icons=true&theme=dark&hide_border=true)
-
----
-
-## 📫 Find Me
-
-- 🔗 GitHub: **[github.com/GinCz](https://github.com/GinCz)**
-- 📁 IPGuard + Linux scripts: [GinCz/Linux_Server_Public](https://github.com/GinCz/Linux_Server_Public)
-- 💻 Windows + Samba tools: [GinCz/Windows_scripts](https://github.com/GinCz/Windows_scripts)
+Zero-bloat plugins with native auto-update engine (`vladimir-ai-updater.php`), SEO tools, image optimization, email compliance, and WooCommerce SKU automation.
 
 ---
 
-*= Rooted by VladiMIR + AI | v.2026.07.11 | github.com/GinCz =*
+## 🛠️ Tech Stack & Infrastructure
+
+| Layer | Technologies |
+|---|---|
+| **Cloud & OS** | Debian 12, Ubuntu 24 LTS, Oracle Cloud OCI, NetCup, AWS, IONOS |
+| **Security & WAF** | IPGuard, CrowdSec, Fail2Ban, Cloudflare WAF, iptables, ipset |
+| **Networking & VPN** | XRAY VPN (VLESS, Reality), WireGuard, Samba SMB2/3 |
+| **Web & Automation** | Node.js, Python, Nginx, FastPanel, WordPress, Docker Compose |
+| **AI Systems** | Google Gemini Pro, Anti-Gravity AI Agent Node, Token Optimization |
+
+---
+
+<br/>
+
+<div align="center">
+
+<h3>= Rooted by VladiMIR + AI =</h3>
+
+<br/>
+
+<a href="https://github.com/GinCz" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+&nbsp;&nbsp;<b>|||</b>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gincz/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;&nbsp;<b>|||</b>&nbsp;&nbsp;
+<a href="https://uslugi.yandex.ru/profile/VladimirBulantsev-1756893" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Яндекс.Услуги-FC3F1D?style=flat&logo=yandex&logoColor=white" alt="Яндекс.Услуги" /></a>
+
+<br/><br/>
+
+<sub>GinCz &copy; 2026. Ing. Vladimir Bulantsev</sub>
+
+</div>
