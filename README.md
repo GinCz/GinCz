@@ -12,6 +12,7 @@ I design and maintain enterprise server infrastructure, security hardening syste
 
 - 🛡️ Creator of **IPGuard** — triple-layer IP security system (ipset + CrowdSec + Fail2Ban) for Linux production servers.
 - 💬 Architect of **GIN-Chat** — autonomous WebRTC audio/video messenger with zero-knowledge client-side encryption.
+- 📱 Developer of **Android Applications Suite** — native high-performance media & utility apps for Android TV and mobile.
 - ⚡ **WordPress & WooCommerce** micro-plugins suite author — ultra-lightweight, 0-bloat, secure replacements for standard plugins.
 - 🤖 Developer of **Anti-Gravity AI & Token Economy** frameworks for fully autonomous agents and server maintenance.
 - 🗂️ Managing distributed **Samba** network storage across VPN nodes, Oracle Cloud, NetCup, AWS, and IONOS.
@@ -24,34 +25,41 @@ I design and maintain enterprise server infrastructure, security hardening syste
 All public projects are maintained directly in the root of the **GinCz** GitHub ecosystem:
 
 ### 1. 🤖 [AI ↗](https://github.com/GinCz/AI)
-> Universal AI Master Rules, Token Economy, Cache-First Architecture & VS Code Environment.
+> Universal AI Master Rules, Token Economy, Cache-First Architecture & Multi-Agent Framework.
 
-Comprehensive operating standards, prompt engineering rules, agent workflows, and system skills for production AI agents.
+Comprehensive operating standards, prompt engineering rules, agent workflows, and 30 system skills for production AI agents.
 
 ---
 
-### 2. 💬 [GIN-Chat ↗](https://github.com/GinCz/GIN-Chat)
+### 2. 📱 [Android ↗](https://github.com/GinCz/Android)
+> Official Android Applications & APK Suite for Android TV and mobile devices.
+
+Distribution hub for standalone, ad-free APK packages: **GIN-Cinema** (4K HDR cinema), **GIN-TV** (IPTV player), **GIN-IP** (network diagnostic tool), and **GIN-APP** (master application portal).
+
+---
+
+### 3. 💬 [GIN-Chat ↗](https://github.com/GinCz/GIN-Chat)
 > Autonomous, ultra-secure E2EE WebRTC messenger with PWA, audio/video calls, and zero-knowledge storage.
 
 Public project showcase, client application, PWA assets, and architecture specifications.
 
 ---
 
-### 3. 🐧 [Linux_Server_Public ↗](https://github.com/GinCz/Linux_Server_Public)
+### 4. 🐧 [Linux_Server_Public ↗](https://github.com/GinCz/Linux_Server_Public)
 > Production-ready scripts, security tooling, and configs for Ubuntu 24 LTS and Debian 12 servers.
 
 Flagship repository containing **IPGuard**, FastPanel maintenance scripts, Cloudflare WAF automation, CrowdSec integration, and backup routines.
 
 ---
 
-### 4. 🪟 [Windows_scripts ↗](https://github.com/GinCz/Windows_scripts)
+### 5. 🪟 [Windows_scripts ↗](https://github.com/GinCz/Windows_scripts)
 > Windows CMD/BAT/PowerShell utilities for diagnostics, system optimization, and Samba SMB network drive management.
 
 Sysadmin toolkit including `SMB_Connect.bat`, optimization suites, and desktop maintenance automation.
 
 ---
 
-### 5. 🌐 [WordPress ↗](https://github.com/GinCz/WordPress)
+### 6. 🌐 [WordPress ↗](https://github.com/GinCz/WordPress)
 > WordPress ecosystem & suite of 13 ultra-lightweight, high-performance micro-plugins with 100% open source code.
 
 Zero-bloat plugins with native auto-update engine (`vladimir-ai-updater.php`), SEO tools, image optimization, email compliance, and WooCommerce SKU automation.
@@ -66,6 +74,7 @@ Zero-bloat plugins with native auto-update engine (`vladimir-ai-updater.php`), S
 | **Security & WAF** | IPGuard, CrowdSec, Fail2Ban, Cloudflare WAF, iptables, ipset |
 | **Networking & VPN** | XRAY VPN (VLESS, Reality), WireGuard, Samba SMB2/3 |
 | **Web & Automation** | Node.js, Python, Nginx, FastPanel, WordPress, Docker Compose |
+| **Mobile & Desktop** | Android (Kotlin, Jetpack), Win32 / BAT / PowerShell / Go |
 | **AI Systems** | Google Gemini Pro, Anti-Gravity AI Agent Node, Token Optimization |
 
 ---
