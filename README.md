@@ -26,6 +26,63 @@
 
 ---
 
+## 🚀 Official Software & Tools Suite (Direct Downloads & Quick Launch)
+
+Production-ready standalone binaries, system optimizers, server provisioning frameworks, and Smart TV applications developed and maintained by **Vladimir Bulantsev (GinCz) + AI**:
+
+### 🪟 Windows Applications & Tools (.EXE & Scripts)
+*Zero-dependency native tools and automated maintenance scripts for Windows 10/11 & Windows Server:*
+
+| Software / Tool | Type | Latest Version | Direct Download / Quick Run | Description |
+| :--- | :---: | :---: | :--- | :--- |
+| 🎙️ **[GIN-Voice ↗](https://github.com/GinCz/Windows_scripts/tree/main/Windows/GIN-Voice)** | Win32 (.exe) | `v041` | [⬇️ **Download GIN-Voice.exe**](https://raw.githubusercontent.com/GinCz/Windows_scripts/main/Windows/GIN-Voice/GIN-Voice.exe) • [Setup](https://raw.githubusercontent.com/GinCz/Windows_scripts/main/Windows/GIN-Voice/GIN-Voice_Setup.exe) | Real-time multilingual voice-to-text with Whisper AI code-switching |
+| 🔍 **[GIN-NetScan ↗](https://github.com/GinCz/Windows_scripts/tree/main/Windows/GIN-NetScan)** | Win32 (.exe) | `v002` | [⬇️ **Download GIN-NetScan.exe**](https://raw.githubusercontent.com/GinCz/Windows_scripts/main/Windows/GIN-NetScan/GIN-NetScan.exe) | High-speed multi-threaded LAN host discovery & TCP port scanner |
+| 🛡️ **[GIN-VPN ↗](https://github.com/GinCz/Windows_scripts/tree/main/Windows/GIN-VPN)** | Win32 (.exe) | `v094` | [⬇️ **Download GIN-VPN.exe**](https://raw.githubusercontent.com/GinCz/Windows_scripts/main/Windows/GIN-VPN/GIN-VPN.exe) • [Installer](https://raw.githubusercontent.com/GinCz/Windows_scripts/main/Windows/GIN-VPN/GIN-VPN_Installer.exe) | Native Xray VLESS-Reality client with dynamic tray sentinel & killswitch |
+| 🎨 **[GIN-Wallpaper ↗](https://github.com/GinCz/Windows_scripts/tree/main/GIN-Wallpaper)** | Win32 (.exe) | `v012` | [⬇️ **Download GIN-Wallpaper.exe**](https://raw.githubusercontent.com/GinCz/Windows_scripts/main/GIN-Wallpaper/GIN-Wallpaper-Calend.exe) | Dynamic desktop wallpaper switcher with embedded live calendar |
+| ⚡ **[GIN-Win-Optimizer ↗](https://github.com/GinCz/Windows_scripts/tree/main/Windows/GIN-Win-Optimizer)** | CMD / PS1 | `v045` | [⬇️ **Download GIN-Win-Optimizer.cmd**](https://raw.githubusercontent.com/GinCz/Windows_scripts/main/Windows/GIN-Win-Optimizer/GIN-Win-Optimizer_v045.cmd) | Enterprise Windows telemetry debloater, DPC latency & RAM tuner |
+| 🧹 **`CLEAN.cmd`** | Script | Latest | [⬇️ Download CLEAN.cmd](https://raw.githubusercontent.com/GinCz/Windows_scripts/main/CLEAN.cmd) | Deep cache, temp, Prefetch, and SoftwareDistribution sweeper |
+| 🚀 **`WIN_Optimize.bat`** | Script | Latest | [⬇️ Download WIN_Optimize.bat](https://raw.githubusercontent.com/GinCz/Windows_scripts/main/WIN_Optimize.bat) | DPC latency optimizer, timer resolution fix & background debloater |
+| 🛡️ **`System_Security_Miner_Audit.cmd`** | Script | Latest | [⬇️ Download Audit Tool](https://raw.githubusercontent.com/GinCz/Windows_scripts/main/System_Security_Miner_Audit.cmd) | Cryptominer detection, autorun anomalies & rootkit deep audit |
+| 🔧 **`Error_80070002_AI.cmd`** | Script | Latest | [⬇️ Download Fix Script](https://raw.githubusercontent.com/GinCz/Windows_scripts/main/Error_80070002_AI.cmd) | 1-Click Windows Update and component store (CBS/DISM) repair tool |
+| 🛠️ **`WinUtil`** | Suite | Latest | `iwr -useb https://raw.githubusercontent.com/GinCz/Windows_scripts/main/WinUtil_VladiMIR/winutil.ps1 | iex` | Standalone modular Windows utility & configuration suite |
+
+👉 *Full Windows repository:* [**GinCz/Windows_scripts ↗**](https://github.com/GinCz/Windows_scripts)
+
+---
+
+### 🐧 Linux Server Automation & Hardening Suite
+*Production-grade provisioning, kernel tuning, and live parallel cluster monitoring for Ubuntu 24.04 LTS & Debian 12:*
+
+| Tool / Automation | Target OS | 1-Click Terminal Execution Command | Description |
+| :--- | :--- | :--- | :--- |
+| 🚀 **Fresh Server Provisioning** | Ubuntu 24 / Debian 12 | `bash <(curl -fsSL https://raw.githubusercontent.com/GinCz/Linux_Server_Public/main/scripts/new_server_install.sh)` | Master server baseline: MOTD, colorized aliases, tools, swap & journal tuning |
+| 🧹 **Deep System Cleaner** | All Linux | `bash <(curl -fsSL https://raw.githubusercontent.com/GinCz/Linux_Server_Public/main/scripts/server_cleanup.sh)` | Deep disk vacuum: journalctl cleanup, APT caches, obsolete kernels |
+| 🐧 **Ubuntu 24 LTS Slim** | Ubuntu 24.04 LTS | `bash <(curl -fsSL https://raw.githubusercontent.com/GinCz/Linux_Server_Public/main/Ubuntu24_Slim/ubuntu24_slim.sh)` | Automated minimal headless hardening profile for Ubuntu 24.04 LTS |
+| 🐧 **Debian 12 Slim** | Debian 12 | `bash <(curl -fsSL https://raw.githubusercontent.com/GinCz/Linux_Server_Public/main/Debian12_Slim/debian12_slim.sh)` | Minimal headless hardening profile for Debian 12 Bookworm |
+| 📊 **Cluster Live Monitor** | Any Linux (SSH Master) | `bash <(curl -fsSL https://raw.githubusercontent.com/GinCz/Linux_Server_Public/main/monitoring/install.sh)` | Parallel SSH multi-node hardware & VPN monitor (`stat_all` / `stat`) |
+| 🔍 **Interactive SOS Diagnostics** | All Linux | `bash <(curl -fsSL https://raw.githubusercontent.com/GinCz/Linux_Server_Public/main/scripts/install_sos_standalone.sh)` | Deep interactive server diagnostics, network routes & security audit |
+| 💾 **Fastpanel Auto-Fix** | Fastpanel / Nginx | `bash <(curl -fsSL https://raw.githubusercontent.com/GinCz/Linux_Server_Public/main/fastpanel-fix.sh)` | Restores broken Fastpanel services, MariaDB, and Nginx reverse proxies |
+| 🛡️ **Secure Disk Wipe** | All Linux | `bash <(curl -fsSL https://raw.githubusercontent.com/GinCz/Linux_Server_Public/main/wipe_disk.sh)` | DoD-compliant multi-pass storage sanitization script |
+
+👉 *Full Linux repository:* [**GinCz/Linux_Server_Public ↗**](https://github.com/GinCz/Linux_Server_Public)
+
+---
+
+### 📱 Android TV & Mobile Applications (.apk)
+*Ad-free, tracker-free Smart TV and mobile applications with hardware HEVC/AV1 acceleration and D-Pad remote navigation:*
+
+| Application | Platform | Version | Direct Download (.apk) | Key Features |
+| :--- | :--- | :---: | :--- | :--- |
+| 🚀 **[GIN-Launcher ↗](https://github.com/GinCz/Android/tree/main/GIN-Launcher)** | Android TV / Google TV / FireTV | `v027` | [⬇️ **Download GIN-TV-Launcher.apk**](https://raw.githubusercontent.com/GinCz/Android/main/GIN-Launcher/GIN-TV-Launcher.apk) | Sub-25MB RAM leanback launcher, D-pad navigation, sleep timer, 12 wallpapers |
+| 🎬 **[GIN-Cinema ↗](https://github.com/GinCz/Android/tree/main/GIN-Cinema)** | Android TV / Tablets / Mobile | `v114` | [⬇️ **Download GIN-Cinema.apk**](https://raw.githubusercontent.com/GinCz/Android/main/GIN-Cinema/GIN-Cinema.apk) | 4K HDR online cinema client, ExoPlayer hardware decoding, zero ads |
+| 📺 **[GIN-TV ↗](https://github.com/GinCz/Android/tree/main/GIN-TV)** | Android TV / Smart TV / Mobile | `v077` | [⬇️ **Download GIN-TV.apk**](https://raw.githubusercontent.com/GinCz/Android/main/GIN-TV/GIN-TV.apk) | Live IPTV player, sub-300ms channel switching, interactive EPG guide |
+| 🌐 **[GIN-IP ↗](https://github.com/GinCz/Android/tree/main/GIN-IP)** | All Android Devices | `v013` | [⬇️ **Download GIN-IP.apk**](https://raw.githubusercontent.com/GinCz/Android/main/GIN-IP/GIN-IP.apk) | 1-Tap network diagnostics: external IP, ASN, ISP info, DNS latency benchmark |
+| 📦 **[GIN-APP ↗](https://github.com/GinCz/Android/tree/main/GIN-APP)** | Android TV / Mobile Hub | `v006` | [⬇️ **Download GIN-APP.apk**](https://raw.githubusercontent.com/GinCz/Android/main/GIN-APP/GIN-APP.apk) | Unified application hub and auto-updater for GinCz mobile ecosystem |
+
+👉 *Full Android repository:* [**GinCz/Android ↗**](https://github.com/GinCz/Android)
+
+---
+
 ## 👨‍💻 About Me
 
 Hi, I'm **VladiMIR** (aka **GinCz**) — a Senior Systems Architect, Infrastructure Engineer, and Software Developer with **20+ years of hands-on experience** managing high-availability enterprise environments, designing secure network perimeters, and building native desktop and mobile applications.
