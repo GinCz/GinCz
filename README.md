@@ -96,9 +96,9 @@ Comprehensive chronological career track record detailing enterprise systems adm
   │
 2018 ─── Novum Global, a.s. (Windows Server 300+ Estate, RDS & Network Administration)
   │
-2020 ─── NOTIX s.r.o. (Senior Systems & Network Admin, M365, L2TP, SQL Backup Automation)
+2020 ─── Komerční banka (External Cyber Security Penetration Tester & Security Auditor)
   │
-2023 ─── Komerční banka (External Cyber Security Penetration Tester & Security Auditor)
+2020 ─── NOTIX s.r.o. (Senior Systems & Network Admin, M365, L2TP, SQL Backup Automation)
   │
 Present  EKATERINBURG s.r.o. / B2B Consulting (DevOps, Enterprise AI Platforms, Cloudflare, VPN, Software Dev)
 ```
@@ -127,7 +127,7 @@ Present  EKATERINBURG s.r.o. / B2B Consulting (DevOps, Enterprise AI Platforms, 
 - **Key Skills & Keywords:** *Hybrid Cloud, Windows Server, Linux Administration, Active Directory, GPO, Microsoft 365, RDS Terminal Server, L2TP VPN, PowerShell Scripting, SQL Backup Automation, ITIL, L3 Troubleshooting, Data Security.*
 
 ### 🛡️ 3. Komerční banka (KB)
-**Period:** August 2023 – September 2023 & January 2024 – February 2024  
+**Period:** August 2020 – September 2020 & January 2021 – February 2021  
 **Role:** External Cyber Security Penetration Tester & Security Auditor  
 **Location:** Prague, Czech Republic  
 - **Targeted Penetration Testing:** Comprehensive end-to-end security audits and penetration tests on newly commissioned enterprise server environments and banking infrastructure.
